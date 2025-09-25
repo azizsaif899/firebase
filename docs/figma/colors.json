@@ -1,0 +1,19 @@
+{
+  "primary": "#4A90E2",
+  "secondary": "#50E3C2",
+  "accent": "#F5A623",
+  "text": {
+    "main": "#333333",
+    "subtle": "#777777",
+    "onPrimary": "#FFFFFF"
+  },
+  "background": {
+    "default": "#F8F9FA",
+    "paper": "#FFFFFF"
+  },
+  "status": {
+    "success": "#28A745",
+    "error": "#DC3545",
+    "warning": "#FFC107"
+  }
+}
